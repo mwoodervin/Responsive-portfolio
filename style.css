@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
+
+.navbar-brand, .nav-link, .navbar-text {
+  color: rgb(109, 24, 24);
+  font-family: 'Sriracha', cursive; 
+}
+
+p.body-text {
+  color: rgb(109, 24, 24);
+  font-family: 'Sriracha', cursive; 
+}
 
 .hero-image {
         background-image: url("BassHarborLight.jpeg");
@@ -17,7 +28,3 @@
         color: white;
       }
 
-      .h1 {
-          color: rgb(109, 24, 24);
-          text-shadow: rgb(10, 10, 59);      
-        }
