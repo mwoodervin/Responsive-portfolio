@@ -37,10 +37,13 @@ nav.bg-primary, {
 }
 
 /* About Me */
-div.card-body {
-  border-width: 1rem;
-  border-bottom: rgb(185, 182, 177);
-  font-size: 30px;
+div.card {
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-bottom: 1px;
+  border-color: rgb(92, 87, 87);
+  font-size: 35px;
   flex-basis: 100%;
 }
 
