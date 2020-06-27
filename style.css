@@ -11,7 +11,7 @@ body, html {
   font-family: 'Sriracha', cursive; 
 }
 
-.hero-image {
+div.hero-image {
         background-image: url("BassHarborLight.jpeg");
         height: 100px;
         width: 100%;
@@ -21,7 +21,7 @@ body, html {
         position: center;
       }
 
-.hero-text {
+div.hero-text {
         text-align: center;
         position: absolute;
         top: 5%;
@@ -31,16 +31,26 @@ body, html {
         color: rgb(109, 24, 24);
       }
 
+/* Nav Bar */
+nav.bg-primary, {
+  background-color: #495c71;
+}
+
 /* About Me */
-.card-body {
+div.card-body {
   border-width: 1rem;
   border-bottom: rgb(185, 182, 177);
   font-size: 30px;
   flex-basis: 100%;
 }
+
 /* Profile Image */
-.img img-thumbnail {
-  height: 50%;
-  width: 50%;
+div.card {
+  margin: 20px;
 }
-/* Bio */
+
+/* Cards on Portfolio Page */
+
+p.card-text {
+  font-size: 14px;
+}
