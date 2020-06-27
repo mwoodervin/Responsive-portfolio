@@ -50,7 +50,11 @@ div.card {
 }
 
 /* Cards on Portfolio Page */
-
 p.card-text {
   font-size: 14px;
+}
+/* Footer */
+span.text-muted {
+  color: rgb(109, 24, 24);
+  font-size: 12px;
 }
