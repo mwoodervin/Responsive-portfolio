@@ -57,4 +57,5 @@ p.card-text {
 span.text-muted {
   color: rgb(109, 24, 24);
   font-size: 12px;
+  text-align: center;
 }
