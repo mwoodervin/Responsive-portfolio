@@ -1,7 +1,9 @@
 # Responsive-portfolio
 Created a responsive web site using Bootstrap. The site is designed to be easily viewable on any size screen from a large desktop to a small tablet or phone. 
 
-The site includes three pages:
+Link to site: https://mwoodervin.github.io/Responsive-portfolio/
+
+Site description: the site includes three pages.
 
 A Home/About Me page includes a photo and short bio about me.
 
