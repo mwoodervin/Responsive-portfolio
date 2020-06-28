@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
 
+@media only screen and (min-width: 768px) {
+  img.img-thumbnail {
+    align-items:center;
+  }
+}
 .nav-link, .navbar-text {
   color: rgb(109, 24, 24);
   font-family: 'Sriracha', cursive; 
@@ -30,9 +35,21 @@ div.hero-text {
         font-size: 100px;
         color: rgb(109, 24, 24);
       }
-
+/* About Me */
+div.card-body {
+    padding: 5px;
+    color: rgb(109, 24, 24);
+}
+/* Separator */
+hr.separator {
+  margin-top: 0rem;
+  overflow: hidden;
+  height: 2px;
+  color:#495c71;
+  background-color:#495c71;
+}
 /* Nav Bar */
-nav.bg-primary, {
+nav.navbar {
   background-color: #495c71;
 }
 
@@ -57,8 +74,7 @@ p.card-text {
   font-size: 14px;
 }
 /* Footer */
-span.text-muted {
-  color: rgb(109, 24, 24);
-  font-size: 12px;
+footer.footer {
   text-align: center;
+  font-size: 12px;
 }
