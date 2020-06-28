@@ -1,10 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@200;300;400&display=swap');  img.img-thumbnail {
-    align-items:center;
-  }
-}
-.nav-link, .navbar-text {
-  color: rgb(109, 24, 24);
-  font-family: 'Barlow Condensed', sans-serif;}
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@200;300;400&display=swap');  
 
 body, html {
   height: 100%;
@@ -15,6 +9,11 @@ body, html {
 nav.navbar {
   background-color: #495c71;
 }
+
+.nav-link, .navbar-text {
+  color: rgb(109, 24, 24);
+  font-family: 'Barlow Condensed', sans-serif;}
+
 
 /* Hero */
 div.hero-image {
@@ -52,7 +51,8 @@ div.card-body {
     padding: 5px;
     color: rgb(109, 24, 24);
 }
-/* Separator */
+
+/* Separator on About Me Page*/
 hr.separator {
   margin-top: 0rem;
   overflow: hidden;
@@ -61,9 +61,14 @@ hr.separator {
   background-color:#495c71;
 }
 
-/* Profile Image */
+/* Profile Image on About Me Page*/
 div.card {
   margin: 20px;
+}
+
+/* Cards on Portfolio Page */
+p.card-text {
+  font-size: 14px;
 }
 
 img.card-img-top {
@@ -71,10 +76,6 @@ img.card-img-top {
   object-fit: cover;
 }
 
-/* Cards on Portfolio Page */
-p.card-text {
-  font-size: 14px;
-}
 /* Footer */
 footer.footer {
   text-align: center;
