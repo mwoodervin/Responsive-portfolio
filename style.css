@@ -1,20 +1,15 @@
-@import url('https://fonts.googleapis.com/css2?family=Sriracha&display=swap');
-
-@media only screen and (min-width: 768px) {
-  img.img-thumbnail {
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@200;300;400&display=swap');  img.img-thumbnail {
     align-items:center;
   }
 }
 .nav-link, .navbar-text {
   color: rgb(109, 24, 24);
-  font-family: 'Sriracha', cursive; 
-}
+  font-family: 'Barlow Condensed', sans-serif;}
 
 body, html {
   height: 100%;
   margin: 0;
-  font-family: 'Sriracha', cursive; 
-}
+  font-family: 'Barlow Condensed', sans-serif;}
 
 div.hero-image {
         background-image: url("BassHarborLight.jpeg");
