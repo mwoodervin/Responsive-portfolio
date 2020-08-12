@@ -67,6 +67,10 @@ div.card {
 }
 
 /* Cards on Portfolio Page */
+.flex-container {
+  display: flex;
+}
+
 p.card-text {
   font-size: 14px;
 }
