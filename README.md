@@ -17,4 +17,5 @@ A Contact page includes a form to request more information.
 A Portfolio page includes short bits of information about projects, jobs, hobbies.
 ![image](https://user-images.githubusercontent.com/65414966/85935698-ae424900-b8c1-11ea-8832-9f3b3f80bb16.png)
 
-
+## Licence
+[![license information](https://img.shields.io/badge/license-MIT-blue)](https://github.com/mwoodervin/Code-Quiz/blob/master/LICENSE)
