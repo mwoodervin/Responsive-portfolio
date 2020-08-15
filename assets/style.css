@@ -45,6 +45,7 @@ div.card {
   border-color: rgb(92, 87, 87);
   font-size: 35px;
   flex-basis: 100%;
+  margin: 20px;
 }
 
 div.card-body {
@@ -61,7 +62,7 @@ hr.separator {
   background-color:#495c71;
 }
 
-/* Profile Image on About Me Page*/
+Profile Image on About Me Page
 div.card {
   margin: 20px;
 }
