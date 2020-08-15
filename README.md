@@ -1,21 +1,20 @@
 # Responsive-portfolio
-Created a responsive web site using Bootstrap. The site is designed to be easily viewable on any size screen from a large desktop to a small tablet or phone. 
+Portfolio providing an overview of my experience to date in full stack development.
 
 Link to site: https://mwoodervin.github.io/Responsive-portfolio/
 
-Site description: the site includes three pages.
+## Description:
+This portfolio provides a sample of several projects, both group and individual, that I have completed to date. Languages employed include HTML, CSS, JavaScript, JQuery.
 
-A Home/About Me page includes a photo and short bio about me.
-
+- A Home/About Me page includes a photo and short bio about me as well as a link to my full résumé.
 ![image](https://user-images.githubusercontent.com/65414966/85935680-99fe4c00-b8c1-11ea-9224-6195cbff5b49.png)
 
+- A Portfolio page includes short summaries of projects completed, as well as links to github and deployed applications.
+![image](https://user-images.githubusercontent.com/65414966/85935698-ae424900-b8c1-11ea-8832-9f3b3f80bb16.png)
 
-A Contact page includes a form to request more information.
+- A Contact page includes ways to contact me, links to github and LinkIn and a form to request additional information.
 
 ![image](https://user-images.githubusercontent.com/65414966/85935688-a71b3b00-b8c1-11ea-9871-73fc9badd4de.png)
-
-A Portfolio page includes short bits of information about projects, jobs, hobbies.
-![image](https://user-images.githubusercontent.com/65414966/85935698-ae424900-b8c1-11ea-8832-9f3b3f80bb16.png)
 
 ## Licence
 [![license information](https://img.shields.io/badge/license-MIT-blue)](https://github.com/mwoodervin/Code-Quiz/blob/master/LICENSE)
