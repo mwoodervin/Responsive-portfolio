@@ -48,7 +48,7 @@ div.card {
   margin: 20px;
 }
 
-div.card-body {
+div.about-me-card {
     padding: 5px;
     color: rgb(109, 24, 24);
 }
@@ -62,11 +62,6 @@ hr.separator {
   background-color:#495c71;
 }
 
-Profile Image on About Me Page
-div.card {
-  margin: 20px;
-}
-
 /* Cards on Portfolio Page */
 .flex-container {
   display: flex;
@@ -74,6 +69,10 @@ div.card {
 
 p.card-text {
   font-size: 14px;
+}
+
+div.card-footer {
+  font-size: 1rem;
 }
 
 img.card-img-top {
